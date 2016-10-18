@@ -1,2 +1,1 @@
-# HTML-CSS-JavaScript
-the repository is built for the Full Stack Web Development,so the project will last upgrade untill I recognise I should be a good developer in web area.
+The repository contains all the material-testing tasks and examples'codes developed for a series of courses which comprise the 'Full Stack Web Development' Specialization of the Hong Kong University of Science & Technology.
